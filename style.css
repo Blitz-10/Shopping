@@ -1,0 +1,47 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+
+  background: url(image6.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ 
+
+}
+.buffer
+{
+  height:5rem;
+}
+
+.middle
+{
+  font-family:fantasy;
+  font-size:3em;
+  border-bottom: 2px solid pink;
+  border-right: 2px solid pink;
+  width:400px;
+  text-align:center;
+  box-shadow: 4px 4px 5px #888888;
+  
+  
+}
+
+.boldify
+{ display:flex;
+  color:#050308;
+  font-size: 2em;
+  justify-content: center;
+  align-items: center;
+  display:inline-block;
+  font-family: 'Alkatra', cursive;
+  font-family: 'Rubik Pixels', cursive;
+  
+}
+.makecen
+{
+  text-align: center;
+}
